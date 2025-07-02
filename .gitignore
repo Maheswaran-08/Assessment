@@ -1,0 +1,10 @@
+.vs/
+*.user
+*.suo
+*.sdf
+*.dbmdl
+*.vsidx
+*.vssscc
+*.ncb
+*.log
+
